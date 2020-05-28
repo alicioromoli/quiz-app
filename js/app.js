@@ -13,7 +13,7 @@ const App = (() => {
     const restartButtonEll = document.querySelector('.restart')
 
     const q1 = new Question(
-        "What was the first president of US",
+        "Who was the first president of US",
         ["Barrack","Osama","George","Monkey"],
         2
     )
